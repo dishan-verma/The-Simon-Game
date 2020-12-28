@@ -1,0 +1,32 @@
+.boxes{
+    height: 10rem;
+    width: 10rem;
+    border-radius: 25%;
+    
+}
+.box_left
+{
+    margin: 5% 0% 5% 60%;
+    padding: 0%;
+}
+.box_right
+{
+    margin: 5% 60% 5% 0%;
+    padding: 0%;
+}
+.centralize{
+    text-align: center;
+}
+h1{
+    margin-top: 1rem;
+    
+    font-family: 'Frijole', cursive;
+    font-size: 5rem;
+    color: purple;
+}
+body{
+    background-color: rgb(208, 247, 173);
+}
+footer{
+    font-family: 'Frijole', cursive;
+}
