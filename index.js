@@ -4,6 +4,10 @@ let started = true;
 let curr_index=0;
 let player_turn=false;
 let level=1;
+
+
+
+
 $(document).click(function(){
     if(started==true)
     {

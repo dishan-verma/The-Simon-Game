@@ -25,8 +25,11 @@ h1{
     color: purple;
 }
 body{
-    background-color: rgb(208, 247, 173);
+    background-color: black;
 }
 footer{
     font-family: 'Frijole', cursive;
+}
+div{
+    background-color: orangered;
 }
